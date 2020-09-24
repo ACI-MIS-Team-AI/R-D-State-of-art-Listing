@@ -26,4 +26,8 @@ Information Retrieval, some examples are demonstrated using ElasticSearch.
 
 - Introduction to BM25 (Best Match). [[nbviewer](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/search/bm25_intro.ipynb)][[html](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/search/bm25_intro.html)]
 
-### time series
+### Time Series
+
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Prototype Mixture Models for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2008.03898.pdf) | [CODE](https://github.com/Yang-Bob/PMMs) |

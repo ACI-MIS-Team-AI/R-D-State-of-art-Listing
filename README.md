@@ -31,3 +31,4 @@ Information Retrieval, some examples are demonstrated using ElasticSearch.
 | Title | Tutorials | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | sktime: A Unified Interface for Machine Learning with Time Series | [TowardsDataScience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [PDF](https://arxiv.org/pdf/1909.07872v1.pdf) | [CODE](https://github.com/alan-turing-institute/sktime) |
+| Multivariate Time Series Classification with WEASEL+MUSE | [Kaggle](https://www.kaggle.com/fk0728/weasel-muse-method-for-classifying-robot-readings) | [PDF](https://arxiv.org/pdf/1711.11343v4.pdf) | [CODE](https://github.com/patrickzib/SFA) |

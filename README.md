@@ -18,12 +18,12 @@ This is a continuously updated repository that documents journey on state-of-art
 
 ### bandits
 
-Introduction to Multi-armed Bandits. [[nbviewer](http://nbviewer.jupyter.org/github/ethen8181/machine-learning/blob/master/bandits/multi_armed_bandits.ipynb)][[html](http://ethen8181.github.io/machine-learning/bandits/multi_armed_bandits.html)]
+Introduction to Multi-armed Bandits. [[nbviewer](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/bandits/multi_armed_bandits.ipynb)][[html](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/bandits/multi_armed_bandits.html)]
 
 ### search
 
 Information Retrieval, some examples are demonstrated using ElasticSearch.
 
-- Introduction to BM25 (Best Match). [[nbviewer](http://nbviewer.jupyter.org/github/ethen8181/machine-learning/blob/master/search/bm25_intro.ipynb)][[html](http://ethen8181.github.io/machine-learning/search/bm25_intro.html)]
+- Introduction to BM25 (Best Match). [[nbviewer](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/search/bm25_intro.ipynb)][[html](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/search/bm25_intro.html)]
 
 ### time series

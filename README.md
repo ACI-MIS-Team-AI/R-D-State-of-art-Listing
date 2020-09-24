@@ -12,15 +12,15 @@ This is a continuously updated repository that documents journey on state-of-art
 
 ## Documentation Listings
 
-### model deployment
+### Model Deployment
 
 - FastAPI & Azure Kubernetes Cluster. End to end example of training a model and hosting it as a service. [[folder](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/tree/master/model_deployment/fastapi_kubernetes)]
 
-### bandits
+### Bandits
 
 Introduction to Multi-armed Bandits. [[nbviewer](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/bandits/multi_armed_bandits.ipynb)][[html](https://github.com/ACI-MIS-Team-AI/Research-and-Development-Resources/blob/master/bandits/multi_armed_bandits.html)]
 
-### search
+### Search
 
 Information Retrieval, some examples are demonstrated using ElasticSearch.
 
@@ -28,6 +28,6 @@ Information Retrieval, some examples are demonstrated using ElasticSearch.
 
 ### Time Series
 
-| Title | Venue | PDF | CODE |
+| Title | Tutorials | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| Prototype Mixture Models for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2008.03898.pdf) | [CODE](https://github.com/Yang-Bob/PMMs) |
+| sktime: A Unified Interface for Machine Learning with Time Series | [TowardsDataScience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [PDF](https://arxiv.org/pdf/1909.07872v1.pdf) | [CODE](https://github.com/alan-turing-institute/sktime) |

@@ -32,11 +32,11 @@ Information Retrieval, some examples are demonstrated using ElasticSearch.
 | :-----|:-----:|:---:|:----:|
 | sktime: A Unified Interface for Machine Learning with Time Series | [TowardsDataScience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [PDF](https://arxiv.org/pdf/1909.07872v1.pdf) | [CODE](https://github.com/alan-turing-institute/sktime) |
 | Multivariate Time Series Classification with WEASEL+MUSE | [Kaggle](https://www.kaggle.com/fk0728/weasel-muse-method-for-classifying-robot-readings) | [PDF](https://arxiv.org/pdf/1711.11343v4.pdf) | [CODE](https://github.com/patrickzib/SFA) |
-| Multivariate LSTM-FCNs for Time Series Classification | [Kaggle]https://www.sitmo.com/groups/machine-learning/forum/topic/multivariate-lstm-fcns-for-time-series-classification/) | [PDF](https://arxiv.org/pdf/1801.04503v2.pdf) | [CODE](https://github.com/titu1994/LSTM-FCN) |
+| Multivariate LSTM-FCNs for Time Series Classification | - | [PDF](https://arxiv.org/pdf/1801.04503v2.pdf) | [CODE](https://github.com/titu1994/LSTM-FCN) |
 
 # Recommendation Systems
 
 | Title | Tutorials | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| sktime: A Unified Interface for Machine Learning with Time Series | [TowardsDataScience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [PDF](https://arxiv.org/pdf/1909.07872v1.pdf) | [CODE](https://github.com/alan-turing-institute/sktime) |
-| Multivariate Time Series Classification with WEASEL+MUSE | [Kaggle](https://www.kaggle.com/fk0728/weasel-muse-method-for-classifying-robot-readings) | [PDF](https://arxiv.org/pdf/1711.11343v4.pdf) | [CODE](https://github.com/patrickzib/SFA) |
+| Collaborative Filtering with Graph Information: Consistency and Scalable Methods | - | [PDF](http://papers.nips.cc/paper/5938-collaborative-filtering-with-graph-information-consistency-and-scalable-methods.pdf) | [CODE](https://github.com/rofuyu/exp-grmf-nips15) |
+| Multivariate Time Series Classification with WEASEL+MUSE | - | [PDF](https://arxiv.org/pdf/1711.11343v4.pdf) | [CODE](https://github.com/patrickzib/SFA) |

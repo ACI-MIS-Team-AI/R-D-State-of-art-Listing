@@ -40,3 +40,12 @@ Information Retrieval, some examples are demonstrated using ElasticSearch.
 | :-----|:-----:|:---:|:----:|
 | Collaborative Filtering with Graph Information: Consistency and Scalable Methods | - | [PDF](http://papers.nips.cc/paper/5938-collaborative-filtering-with-graph-information-consistency-and-scalable-methods.pdf) | [CODE](https://github.com/rofuyu/exp-grmf-nips15) |
 | Enhancing VAEs for Collaborative Filtering: Flexible Priors & Gating Mechanisms | - | [PDF](https://arxiv.org/ftp/arxiv/papers/1911/1911.00936.pdf) | [CODE](https://github.com/psywaves/EVCF) |
+
+
+# Multi-Variable Regression
+
+| Title | Tutorials | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Boosting on the shoulders of giants in quantum device calibration |- | [PDF](https://arxiv.org/pdf/2005.06194v1.pdf) | [CODE](https://github.com/a-wozniakowski/scikit-physlearn) |
+| DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection | - | [PDF](https://dl.acm.org/doi/pdf/10.1145/3394486.3403339) | [CODE](https://github.com/Roytsai27/Dual-Attentive-Tree-aware-Embedding) |
+| Deep Multimodal Transfer-Learned Regression in Data-Poor Domains | - | [PDF](https://arxiv.org/pdf/2006.09310v1.pdf) | [CODE](https://github.com/levimcclenny/multimodal_transfer_learned_regression) |

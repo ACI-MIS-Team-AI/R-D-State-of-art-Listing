@@ -39,4 +39,4 @@ Information Retrieval, some examples are demonstrated using ElasticSearch.
 | Title | Tutorials | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | Collaborative Filtering with Graph Information: Consistency and Scalable Methods | - | [PDF](http://papers.nips.cc/paper/5938-collaborative-filtering-with-graph-information-consistency-and-scalable-methods.pdf) | [CODE](https://github.com/rofuyu/exp-grmf-nips15) |
-| Multivariate Time Series Classification with WEASEL+MUSE | - | [PDF](https://arxiv.org/pdf/1711.11343v4.pdf) | [CODE](https://github.com/patrickzib/SFA) |
+| Enhancing VAEs for Collaborative Filtering: Flexible Priors & Gating Mechanisms | - | [PDF](https://arxiv.org/ftp/arxiv/papers/1911/1911.00936.pdf) | [CODE](https://github.com/psywaves/EVCF) |
